@@ -323,7 +323,7 @@ export default function Index() {
                   <Icon name="MapPin" className="h-5 w-5" />
                   <span className="font-semibold">Офлайн</span>
                 </div>
-                <CardTitle className="text-3xl">1500 ₽</CardTitle>
+                <CardTitle className="text-3xl">2500 ₽</CardTitle>
                 <CardDescription className="text-base">за 60 минут</CardDescription>
               </CardHeader>
               <CardContent>
@@ -353,7 +353,7 @@ export default function Index() {
                   <Icon name="Laptop" className="h-5 w-5" />
                   <span className="font-semibold">Онлайн</span>
                 </div>
-                <CardTitle className="text-3xl">1200 ₽</CardTitle>
+                <CardTitle className="text-3xl">2500 ₽</CardTitle>
                 <CardDescription className="text-base">за 60 минут</CardDescription>
               </CardHeader>
               <CardContent>
