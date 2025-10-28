@@ -96,7 +96,7 @@ export default function Index() {
                 <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center mb-4">
                   <Icon name="Award" className="h-6 w-6 text-primary" />
                 </div>
-                <CardTitle>15 лет опыта</CardTitle>
+                <CardTitle>10 лет опыта</CardTitle>
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">
