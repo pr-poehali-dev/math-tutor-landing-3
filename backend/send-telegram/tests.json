@@ -1,0 +1,21 @@
+{
+  "tests": [
+    {
+      "name": "Send booking request to Telegram",
+      "method": "POST",
+      "path": "/",
+      "body": {
+        "name": "Иван Иванов",
+        "phone": "+7 999 123-45-67",
+        "subject": "Математика",
+        "level": "9 класс"
+      },
+      "expectedStatus": 200,
+      "expectedBody": {
+        "success": true,
+        "message": "string"
+      },
+      "bodyMatcher": "partial"
+    }
+  ]
+}
